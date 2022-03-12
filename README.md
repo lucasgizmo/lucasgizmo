@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasgizmo
+- 👋 Hi, I’m @obsidian
 - 👀 I’m interested in ...Python!
 - 🌱 I’m currently learning ...Python!
 - 💞️ I’m looking to collaborate on ...nothing i'm dumb
